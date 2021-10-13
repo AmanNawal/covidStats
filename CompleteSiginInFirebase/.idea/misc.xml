@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/drawable/graphicalrep.xml" value="0.1" />
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/layout/activity_complete_deatail_covid.xml" value="0.22" />
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/layout/activity_corona_adapterview.xml" value="0.22" />
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/layout/activity_covid.xml" value="0.33" />
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/layout/activity_piechartactivity.xml" value="0.2" />
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/layout/activity_screenmain.xml" value="0.20416666666666666" />
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/layout/activity_sigin_insplash_screen.xml" value="0.22" />
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/layout/activity_validate.xml" value="0.20416666666666666" />
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/layout/toolbarmain.xml" value="0.12771739130434784" />
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/menu/toolbarman.xml" value="0.20416666666666666" />
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/computer science/AAdroid Studio/CompleteSiginInFirebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

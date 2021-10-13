@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CompleteSiginInFirebase</string>
+    <string name="userame">userame</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="sign_out">sign out</string>
+    <string name="facebook_app_id">598069701197522</string>
+    <string name="fb_login_protocol_scheme">fb598069701197522</string>
+    <string name="country">Country</string>
+    <string name="continent">Continent</string>
+    <string name="deaths">deaths</string>
+    <string name="todo">TODO</string>
+    <string name="activecases">activecases</string>
+    <string name="recovered">recovered</string>
+    <string name="textview">TextView</string>
+    <string name="todo4">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+
+</resources>
