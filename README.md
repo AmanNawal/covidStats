@@ -22,3 +22,25 @@ Is an Andoid application which uses firebase for the authentication of each user
   </tr>
 
 </table><br><br>
+
+
+<table align="center">
+  <tr>
+    <th>Starting Splash Screen</th>
+    <th>User Mode</th>
+    <th>Student Signup mode</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/74124514/153232712-53587813-b9b9-4818-8446-c6c7ce979348.jpeg" alt="Specific Country Data" style="width:250px;height:500px;"></td>
+    <td><img src="https://user-images.githubusercontent.com/74124514/153232734-fa59ca81-04c0-4765-9f85-eccf4366269e.jpeg" alt="Pie Chart" style="width:250px;height:500px;"></td>
+    <td><img src="https://user-images.githubusercontent.com/74124514/153232751-0cadf73e-cdc1-4969-a8d7-2d9c5878d7a9.jpeg" alt="User profile" style="width:250px;height:500px;"></td>
+  </tr>
+
+</table><br><br>
+
+
+
+### Made By- Aman Nawal
+
+
+
