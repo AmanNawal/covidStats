@@ -13,7 +13,7 @@ Is an Andoid application which uses firebase for the authentication of each user
   <tr>
     <th>Sign up Screen</th>
     <th>Signing in</th>
-    <thMain Screen(Activity)></th>
+    <th>Main Screen(Activity)</th>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/74124514/153232079-c8165426-2805-434c-9b0e-7709917ae3c6.jpeg" alt="Sign up Screen" style="width:250px;height:500px;"></td>
