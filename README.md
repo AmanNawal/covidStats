@@ -11,9 +11,9 @@ Is an Andoid application which uses firebase for the authentication of each user
 
 <table align="center">
   <tr>
-    <th>Starting Splash Screen</th>
-    <th>User Mode</th>
-    <th>Student Signup mode</th>
+    <th>Sign up Screen</th>
+    <th>Signing in</th>
+    <thMain Screen(Activity)></th>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/74124514/153232079-c8165426-2805-434c-9b0e-7709917ae3c6.jpeg" alt="Sign up Screen" style="width:250px;height:500px;"></td>
@@ -26,9 +26,9 @@ Is an Andoid application which uses firebase for the authentication of each user
 
 <table align="center">
   <tr>
-    <th>Starting Splash Screen</th>
-    <th>User Mode</th>
-    <th>Student Signup mode</th>
+    <th>Specific Country Data</th>
+    <th>Pie Chart</th>
+    <th>User profile</th>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/74124514/153232712-53587813-b9b9-4818-8446-c6c7ce979348.jpeg" alt="Specific Country Data" style="width:250px;height:500px;"></td>
